@@ -1,4 +1,4 @@
 This is the Registration form with the user first name, last name, phone number and email. There is a button Register. when the user clicks register without giving first name, it shows an alert message.
 ![Static Badge](https://img.shields.io/badge/Java-ED8B00)
-![GitHub Stats](https://ghstats.dev/api/card?username=YOUR_USERNAME)
+![GitHub Stats](https://ghstats.dev/api/card?username=Ch-Chakrika)
 
